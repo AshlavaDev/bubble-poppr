@@ -1,0 +1,1 @@
+/* Just the script file for the game */
