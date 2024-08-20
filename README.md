@@ -1,4 +1,4 @@
-# Bubble Popr
+# Bubble Poppr
 
 ## Author: Ashley Morgan
 

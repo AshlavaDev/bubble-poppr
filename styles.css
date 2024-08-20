@@ -1,1 +1,14 @@
 /* All the styles places in one file, not a regular practice of mine but the project is small */
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  min-width: 100vw;
+
+  font-size: 1.6rem;
+}
