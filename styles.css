@@ -9,6 +9,29 @@
 body {
   min-height: 100vh;
   min-width: 100vw;
-
+  background-color: #748b9b;
+  color: #e0dfdb;
   font-size: 1.6rem;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.start {
+  padding: 0.8rem;
+  border: 1px solid #e0dfdb;
+  border-radius: 10%;
+  background-color: #e0dfdb;
+  font-size: 1.6rem;
+  color: #748b9b;
+}
+
+.start:hover {
+  background-color: #748b9b;
+  color: #e0dfdb;
 }
